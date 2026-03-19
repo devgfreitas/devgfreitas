@@ -18,5 +18,6 @@
  - Email: . . .
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devgfreitas&show_icons=true&theme=dark)
+<br>
 ![Status](https://img.shields.io/badge/status-estudando-blue?style=for-the-badge)
 
