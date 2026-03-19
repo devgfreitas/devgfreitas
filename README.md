@@ -1,5 +1,4 @@
-# 👋 Olá! Eu sou o Giovany Freitas
-## 👨‍💻 Desenvolvedor Full Stack em formação
+# 👋 Olá! Me chamo Giovany Freitas!
 
 ## 🛠️Tecnologias:
 <div align="left">
