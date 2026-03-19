@@ -7,8 +7,11 @@
   <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="JavaScript" width="75">
 </div>
 
-No momento sou um estudante em busca de ser um futuro desenvolvedor FullStack, e além disso busco <br>
-aprender com cada oportunidade que me aparecer, para que eu consiga uma boa carreira.
+## 🚀Sobre Mim:
+💻 Desenvolvedor Full Stack em formação.  <br>    
+🚀 Focado em HTML, CSS e JavaScript. <br>           
+📚 Em constante aprendizado e construção de projetos reais. <br>   
+
 <br>
 ## 📫 Contatos:
  - LinkedIn: . . .
