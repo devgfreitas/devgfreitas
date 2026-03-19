@@ -16,5 +16,7 @@
 ## 📫 Contatos:
  - LinkedIn: . . .
  - Email: . . .
+
+   <br>
    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devgfreitas&show_icons=true&theme=dark)
 
