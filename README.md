@@ -11,6 +11,7 @@
 💻 Desenvolvedor Full Stack em formação. <br>
 🚀 Focado em HTML, CSS e JavaScript.   
 📚 Em constante aprendizado e construção de projetos reais.
+📖 Estudante de ADS.
 
 ## 📫 Contatos:
  - LinkedIn: . . .
