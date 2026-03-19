@@ -21,5 +21,5 @@
 <br>
 ![Status](https://img.shields.io/badge/status-estudando-blue?style=for-the-badge)
 <br>
-![Foco](https://img.shields.io/badge/foco-frontend-green?style=for-the-badge)
+![Foco](https://img.shields.io/badge/foco-fullstack-green?style=for-the-badge)
 
