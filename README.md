@@ -12,7 +12,7 @@
 📖 Estudante de ADS.
 
 ## 📫 Contatos:
- - LinkedIn: . . .
+ - LinkedIn: https://www.linkedin.com/in/giovanyfreitas/
  - Email: . . .
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devgfreitas&show_icons=true&theme=dark)
