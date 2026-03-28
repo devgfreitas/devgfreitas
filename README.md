@@ -15,4 +15,4 @@
  - LinkedIn: https://www.linkedin.com/in/giovanyfreitas/
  - Email: gvnyfreitas@gmail.com
 
-![GitHub stats](https://https://github-readme-stats-liart-ten-75.vercel.app//api?username=devgfreitas&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-liart-ten-75.vercel.app//api?username=devgfreitas&show_icons=true&theme=radical)
