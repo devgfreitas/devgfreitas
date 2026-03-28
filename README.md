@@ -14,5 +14,3 @@
 ## 📫 Contact:
  - LinkedIn: https://www.linkedin.com/in/giovanyfreitas/
  - Email: gvnyfreitas@gmail.com
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devgfreitas&show_icons=true&theme=radical)
