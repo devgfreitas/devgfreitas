@@ -7,7 +7,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 🚀 About Me:
-💻 Full Stack Developer in training. <br>
+💻 Back-End Developer in training. <br>
 🚀 Focused on HTML, CSS, and JavaScript.  
 📚 Constantly learning and building real projects.<br>
 📖 ADS (Systems Analysis and Development) student.
