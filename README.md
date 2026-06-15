@@ -81,6 +81,7 @@ Currently, I'm focused on web development, improving my Front-End and Back-End s
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=arduino" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 
 </p>
 
@@ -89,6 +90,7 @@ Currently, I'm focused on web development, improving my Front-End and Back-End s
 - TypeScript
 - Java
 - Python
+- MongoDB
 - Arduino Programming
 - Arduino IDE
 - REST APIs
