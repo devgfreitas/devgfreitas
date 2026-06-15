@@ -73,15 +73,27 @@ Currently, I'm focused on web development, improving my Front-End and Back-End s
 
 ## 📚 Currently Learning
 
-- Front-End Development
-- Back-End Development
-- Advanced JavaScript
-- PHP
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=typescript" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=arduino" />
+
+</p>
+
+- React
+- Node.js
+- TypeScript
+- Java
+- Python
+- Arduino Programming
+- Arduino IDE
 - REST APIs
-- Databases
-- Git & GitHub
-- Web Project Architecture
-- Programming Best Practices
+- Software Architecture
+- Full Stack Development
 
 ---
 
