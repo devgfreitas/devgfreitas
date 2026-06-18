@@ -86,19 +86,6 @@ Currently, I'm focused on web development, improving my Front-End and Back-End s
 
 </p>
 
-- React
-- Tailwind CSS
-- Node.js
-- TypeScript
-- Java
-- Python
-- MongoDB
-- Arduino Programming
-- Arduino IDE
-- REST APIs
-- Software Architecture
-- Full Stack Development
-
 ---
 
 ## 🌐 Connect With Me
