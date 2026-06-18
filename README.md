@@ -76,6 +76,7 @@ Currently, I'm focused on web development, improving my Front-End and Back-End s
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
 <img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=typescript" />
 <img src="https://skillicons.dev/icons?i=java" />
@@ -86,6 +87,7 @@ Currently, I'm focused on web development, improving my Front-End and Back-End s
 </p>
 
 - React
+- Tailwind CSS
 - Node.js
 - TypeScript
 - Java
