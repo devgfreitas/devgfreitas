@@ -83,6 +83,7 @@ Currently, I'm focused on web development, improving my Front-End and Back-End s
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=arduino" />
 <img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=electron" />
 
 </p>
 
