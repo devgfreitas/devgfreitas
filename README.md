@@ -121,10 +121,4 @@ Currently, I'm focused on web development, improving my Front-End and Back-End s
 
 ---
 
-## 💡 Fun Fact
-
-I enjoy exploring new technologies, creating practical solutions, and turning ideas into real projects.
-
----
-
 > "The best way to learn programming is by building real projects."
